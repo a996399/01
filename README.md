@@ -68,4 +68,10 @@ all `false`
 配置好后就可以翻墙了`
 
 
+[idx免费vps](https://idx.google.com)
+```
+bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/argosb/main/argosb.sh)
+```
+
+
 
