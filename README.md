@@ -73,5 +73,11 @@ all `false`
 bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/argosb/main/argosb.sh)
 ```
 
+## 翻墙客户端下载地址
+
+[V2rayN下载](https://github.com/2dust/v2rayN)win Linux macOS
+[nekoray下载](https://github.com/MatsuriDayo/nekoray)win Linux
+[Clash for Windows下载](https://github.com/MatsuriDayo/nekoray/releases)
+
 
 
